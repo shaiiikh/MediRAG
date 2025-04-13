@@ -37,9 +37,8 @@ MediRAG combines BM25 and dense retrieval techniques with a fine-tuned LLM to pr
 ## Installation
 
 ```
-git clone https://github.com/username/MediRAG.git
+git clone https://github.com/shaiiikh/MediRAG.git
 cd MediRAG
-pip install -r requirements.txt
 ```
 
 ## Usage
